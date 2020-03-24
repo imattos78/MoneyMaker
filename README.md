@@ -1,4 +1,5 @@
 #Money Maker
+
 We have three types of coins:
 
 A bronze coin is worth 1 cent
