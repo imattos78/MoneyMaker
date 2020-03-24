@@ -1,4 +1,4 @@
-#Money Maker
+# Money Maker
 
 We have three types of coins:
 
