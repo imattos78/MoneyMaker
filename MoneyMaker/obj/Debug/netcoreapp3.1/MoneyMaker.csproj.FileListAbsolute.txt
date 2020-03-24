@@ -1,0 +1,10 @@
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.deps.json
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.runtimeconfig.json
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.runtimeconfig.dev.json
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.dll
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.pdb
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.csprojAssemblyReference.cache
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.AssemblyInfoInputs.cache
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.AssemblyInfo.cs
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.dll
+/Users/ignaciomattos/Documents/C#_Projects/MoneyMaker/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.pdb
