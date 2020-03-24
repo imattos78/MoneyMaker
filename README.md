@@ -10,7 +10,7 @@ What is the minimum number of coins that equals 98 cents?
 It’s a hard question to answer in your head, but it’s a fun problem to solve with programming. 
 In this project I’ll use C# to build a Money Maker: a program in which a user enters an amount and gets the minimum number of coins that equal that value.
 
-CLONE, DOWNLOAD AND RUN THE APPLICATION LOCALLY
+CLONE, DOWNLOAD AND RUN 
 
 Have fun!!!!!!
 
