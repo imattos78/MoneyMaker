@@ -24,7 +24,7 @@ namespace MoneyMaker
 
             //number of silver coins that “fit” into the remainder
             double silverCoins = Math.Floor(remaining / silver);
-            double silverRemain = remaining % silver;
+            double silverRemain = Math.Floor(remaining % silver);
 
             Console.WriteLine($"Gold coins: {goldCoins}");
             Console.WriteLine($"Silver coins: {silverCoins}");
